@@ -1,0 +1,16 @@
+# Minecraft server files to ignore
+session.lock
+*.log
+logs/
+crash-reports/
+# Keep world data but ignore temporary files
+*.tmp
+*.temp
+# Server plugins cache
+plugins/
+# Backup files
+*.backup
+*.bak
+# OS generated files
+.DS_Store
+Thumbs.db
