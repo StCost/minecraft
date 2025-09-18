@@ -10,6 +10,5 @@ session
 .SERVER
 level.dat_old
 paper-world.yml
-# Distant Horizons mod cache files
 DistantHorizons.sqlite
 **/DistantHorizons.sqlite
